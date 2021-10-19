@@ -1,0 +1,6 @@
+# wallpaper
+nitrogen --restore &
+
+#compositor
+# picom -f &
+
