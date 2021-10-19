@@ -3,4 +3,3 @@ nitrogen --restore &
 
 #compositor
 # picom -f &
-
