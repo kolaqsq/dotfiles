@@ -20,6 +20,6 @@ bspc config normal_border_color    "#33292b"
 dunst &
 
 ######### Other Settings ################
-# xsetroot -cursor_name left_ptr &
+xsetroot -cursor_name left_ptr &
 xbacklight -set 70
-# xinput set-prop 12 309 1
+xinput set-prop 12 309 1
