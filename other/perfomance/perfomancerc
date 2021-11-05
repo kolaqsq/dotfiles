@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# /usr/local/bin/perfomancerc
+
 set -eEu -o pipefail
 shopt -s extdebug
 IFS=$'\n\t'

@@ -1,0 +1,4 @@
+# /etc/systemd/system/perfomance.service
+
+[Service]
+ExecStart=/usr/local/bin/disk-space-check.sh
