@@ -1,0 +1,54 @@
+font:
+  normal:
+    family: JetBrains Mono
+    style: Regular
+
+  bold:
+    family: JetBrains Mono
+    style: Bold
+
+  italic:
+    family: JetBrains Mono
+    style: Italic
+
+  bold_italic:
+    family: JetBrains Mono
+    style: Bold Italic
+
+  size: 12
+
+# VSCode's integrated terminal default colors
+# Primary and dimmed colors needed
+
+colors:
+  # Default colors
+  primary:
+    background: '#1e1e1e' #Background from Dark Theme
+    foreground: '#cccccc'
+
+  # Selection colors
+  selection:
+    text: CellForeground
+    background: '#565656'
+
+  # Normal colors
+  normal:
+    black:   '#000000'
+    red:     '#cd0000'
+    green:   '#00cd00'
+    yellow:  '#cdcd00'
+    blue:    '#0000ee'
+    magenta: '#cd00cd'
+    cyan:    '#00cdcd'
+    white:   '#e5e5e5'
+
+  # Bright colors
+  bright:
+    black:   '#7f7f7f'
+    red:     '#ff0000'
+    green:   '#00ff00'
+    yellow:  '#ffff00'
+    blue:    '#5c5cff'
+    magenta: '#ff00ff'
+    cyan:    '#00ffff'
+    white:   '#ffffff'

@@ -1,0 +1,53 @@
+/* *background:   #2C292D
+*cursorColor:  #FDF9F3
+*foreground:   #FDF9F3
+*color0:       #42383a
+*color1:       #df2d52
+*color2:       #2e916d
+*color3:       #f6661e
+*color4:       #006e93
+*color5:       #7629a0
+*color6:       #1d8991
+*color7:       #f8e2e7
+*color8:       #42383a
+*color9:       #df2d52
+*color10:      #2e916d
+*color11:      #c29461
+*color12:      #006e93
+*color13:      #5e2180
+*color14:      #1d8991
+*color15:      #f8e2e7 */
+
+/* WM Colors */
+*background:   #2C292D
+*cursorColor:  #FDF9F3
+*foreground:   #FDF9F3
+*wmColor0:     #FF6188
+*wmColor1:     #FC9867
+*wmColor2:     #FFD866
+*wmColor3:     #A9DC76
+*wmColor4:     #78DCE8
+*wmColor5:     #AB9DF2
+*wmColor6:     #908E8F
+
+/* Terminal colors */
+*color0:       #000000
+*color1:       #800000
+*color2:       #008000
+*color3:       #808000
+*color4:       #000080
+*color5:       #800080
+*color6:       #008080
+*color7:       #C0C0C0
+*color8:       #808080
+*color9:       #FF0000
+*color10:      #00FF00
+*color11:      #FFFF00
+*color12:      #0000FF
+*color13:      #FF00FF
+*color14:      #00FFFF
+*color15:      #FFFFFF
+
+Xft.dpi: 96
+Xcursor.theme: volantes_light_cursors
+Xcursor.size: 12
