@@ -1,2 +1,3 @@
-# Linux_Sueta
-ama linuh boiii
+# dotfiles
+
+dotfiles for my arch setup
